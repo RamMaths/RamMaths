@@ -1,6 +1,6 @@
 <div>
   <h1>Welcome to my profile!</h1>
-  <p>I am a passionate rust dev always open to learn and contribute to open source projects</p>
+  <p sylte="text-align: center">I am a passionate rust dev always open to learn and contribute to open source projects</p>
   <p>"Rust doesn't just prevent bugs—it obliterates them before they even have a chance to exist." 🦀</p>
 </div>
 
