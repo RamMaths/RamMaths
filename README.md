@@ -17,7 +17,12 @@ Here are some ideas to get you started:
 
 # my-profile
 
-<div align="center" min-height=200rem>
+<div align="center">
   <img width=40% height=100% align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamMaths&hide_progress=true&theme=kacho_ga&hide_border=true&border_radius=0"/>
   <img width=40% height=100% align=top src="https://github-readme-streak-stats.herokuapp.com/?user=RamMaths&theme=kacho_ga&bg_color=00000000&hide_border=true"/>
+</div>
+
+<div align="center">
+<h3 align="left">I have knowledge working with these technologies...</h3>
+<img src='https://skillicons.dev/icons?i=nodejs,actix,rust,awx,docker,linux,bash,js,postgres,vim,tauri&theme=dark'/>
 </div>
