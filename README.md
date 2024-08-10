@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 # my-profile
 
 <div align="center">
-  <img width=40% min-height=10rem max-height=20rem align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamMaths&hide_progress=true&theme=kacho_ga&hide_border=true&border_radius=0"/>
-  <img width=40% min-height=10rem max-height=20rem align=top src="https://github-readme-streak-stats.herokuapp.com/?user=RamMaths&theme=kacho_ga&bg_color=00000000&hide_border=true"/>
+  <img width=40% min-height=20rem max-height=30rem align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamMaths&hide_progress=true&theme=kacho_ga&hide_border=true&border_radius=0"/>
+  <img width=40% min-height=20rem max-height=30rem align=top src="https://github-readme-streak-stats.herokuapp.com/?user=RamMaths&theme=kacho_ga&bg_color=00000000&hide_border=true"/>
 </div>
