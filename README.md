@@ -1,6 +1,8 @@
-I am a passionate rust dev always open to leanrn and contribute to open source projects
-
-"Rust doesn't just prevent bugs—it obliterates them before they even have a chance to exist." 🦀
+<div>
+  <h1>Welcome to my profile!</h1>
+  <p>I am a passionate rust dev always open to leanrn and contribute to open source projects</p>
+  <p>"Rust doesn't just prevent bugs—it obliterates them before they even have a chance to exist." 🦀</p>
+</div>
 
 <div align="center">
   <img width=40% height=100% align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamMaths&hide_progress=true&theme=kacho_ga&hide_border=true&border_radius=0"/>
