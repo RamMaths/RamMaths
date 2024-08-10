@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 
 <div align="center">
 <h3 align="left">I have knowledge working with these technologies...</h3>
-<img src='https://skillicons.dev/icons?i=nodejs,actix,rust,awx,docker,linux,bash,js,postgres,vim,tauri&theme=dark'/>
+<img src='https://skillicons.dev/icons?i=nodejs,actix,rust,aws,docker,linux,bash,js,postgres,vim,tauri&theme=dark'/>
 </div>
